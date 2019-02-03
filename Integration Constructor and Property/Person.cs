@@ -10,7 +10,7 @@ namespace Integration_Constructor_and_Property
         }
 
         /// <summary>
-        /// Fild and Property Age.
+        /// Field and Property Age.
         /// </summary>
 
         private int age;
@@ -32,7 +32,7 @@ namespace Integration_Constructor_and_Property
         }
 
         /// <summary>
-        /// Fild and Property Full Name.
+        /// Field and Property Full Name.
         /// </summary>
 
         private string fullname;
@@ -60,7 +60,7 @@ namespace Integration_Constructor_and_Property
         }
 
         /// <summary>
-        /// Fild and Property ID.
+        /// Field and Property ID.
         /// </summary>
 
         private string id;
@@ -90,21 +90,5 @@ namespace Integration_Constructor_and_Property
 
             System.Console.WriteLine();
         }
-
-
-
-
-
-
-    }
-
-
-
-
-
-
-
-
-
-    
+    }    
 }
